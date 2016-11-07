@@ -7,4 +7,5 @@
 姓名/昵称 | 班级 | 类别 | 微博 | 公众号 | 博客地址
 ---|---|---|---|---|---
 qsmmeng | 130707 | 大数据 | | | [qsmmeng](http://blog.csdn.net/qq_17586821)
+blackgan | 130708 | Web前端 | | | (http://www.cnblogs.com/blackgan)
 
